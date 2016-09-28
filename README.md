@@ -1,2 +1,2 @@
-# 09-28-assignment-2-starter
-Starter code for assignment 2
+# 09-28-assignment-3-starter
+Starter code for assignment 3
