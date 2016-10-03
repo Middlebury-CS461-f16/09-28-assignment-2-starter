@@ -85,7 +85,7 @@ let initialize = function(){
     if (m){
       currentMatrix = m;
     }
-    return m;
+    return currentMatrix;
   }
   };
 }
